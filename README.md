@@ -50,6 +50,10 @@ Tech Stack: `Kotlin`, `Room`, `MVVM`, `Coroutines`
 
 - 🔗 LinkedIn: [linkedin.com/in/Thabelo Nevhuduli](www.linkedin.com/in/thabelo-nevhuduli-154283335)
 - 📬 Email: thabelodeveloper@gmail.com
+- 📬 WhatsApp: +27 79 613 7743
+- 📬 Phone: +27 799 613 7743
+
+
 
 ---
 
