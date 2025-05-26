@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Thabelo Nevhuduli
 
 I'm an Android Developer and React Native Front-End Developer passionate about building fast, scalable, and user-centric mobile apps. I enjoy transforming ideas into real-world products with smooth user experiences.
 
