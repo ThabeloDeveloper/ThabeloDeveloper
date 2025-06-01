@@ -24,14 +24,6 @@ I'm an Android Developer and React Native Front-End Developer passionate about b
 
 ---
 
-## 📂 Featured Projects
-
-### 📱 [React Native E-Commerce App](https://github.com/your-github-username/react-native-ecommerce)
-A modern mobile shopping app built with React Native, Redux, and Firebase. Features include authentication, cart, product filters, and payments.
-
-Tech Stack: `React Native`, `Redux`, `Firebase`, `Stripe`
-
----
 
 ### 📱 [InterDate](https://play.google.com/store/apps/details?id=com.mecaroid.interdate&pcampaignid=web_share)
 InterDate is a modern dating application designed to facilitate genuine connections among users based on shared educational backgrounds and geographical locations. Leveraging a user-friendly interface inspired by popular messaging apps, InterDate incorporates robust search filters, dynamic user profiles, and real-time communication features, making it the ideal platform for finding meaningful relationships.
