@@ -29,6 +29,11 @@ I'm an Android Developer, Flutter and React Native Front-End Developer passionat
 InterDate is a modern dating application designed to facilitate genuine connections among users based on shared educational backgrounds and geographical locations. Leveraging a user-friendly interface inspired by popular messaging apps, InterDate incorporates robust search filters, dynamic user profiles, and real-time communication features, making it the ideal platform for finding meaningful relationships.
 Tech Stack: `Kotlin`, `Room`, `MVVM`, `Coroutines`
 
+### 📱 [InterDate](https://play.google.com/store/apps/details?id=com.mecaroid.interdate&pcampaignid=web_share)
+### ![View On GitHub](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)(https://github.com/ThabeloDeveloper/jobbuddy)
+InterDate is a modern dating application designed to facilitate genuine connections among users based on shared educational backgrounds and geographical locations. Leveraging a user-friendly interface inspired by popular messaging apps, InterDate incorporates robust search filters, dynamic user profiles, and real-time communication features, making it the ideal platform for finding meaningful relationships.
+Tech Stack: `Kotlin`, `Room`, `MVVM`, `Coroutines`
+
 ---
 
 ## 📊 GitHub Stats
